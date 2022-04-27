@@ -8,7 +8,7 @@
 - 🔭 Job Title: Research Assistant @ LDST. Check [here](http://telematics.upatras.gr/telematics/users/foivos-allayiotis)
 - 🌱 I’m currently studying Computer engineering
 - 🥅 2022 Goals: Contribute more to research and graduate
-- ⚡ Fun fact: I love to program and play the guitar
+- ⚡ Fun fact: I love to program and play tennis
 
 
 
