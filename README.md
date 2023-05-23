@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm [Foivos Allayiotis](https://foivos-all.github.io/) and I'm currently a student at the [University of Patras](https://www.upatras.gr/en/) and a Research Assistant at the [Lab of Distributed Systems and Telematics](http://telematics.upatras.gr/telematics/)!
+### 👋 Hi there, I'm [Fivos Allagiotis](https://foivos-all.github.io/) and I'm currently a student at the [University of Patras](https://www.upatras.gr/en/) and a Research Assistant at the [Lab of Distributed Systems and Telematics](http://telematics.upatras.gr/telematics/)!
 
 <!-- [![Website](https://img.shields.io/website?label=IoannisSina.com&style=for-the-badge&url=https://ioannissina.github.io/)](https://ioannissina.github.io/) -->
 ---
