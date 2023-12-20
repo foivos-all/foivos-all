@@ -5,9 +5,8 @@
 
 #### :pencil: About me:
 
-- 🔭 Job Title: Research Assistant @ LDST. Check [here](http://telematics.upatras.gr/telematics/users/foivos-allayiotis)
-- 🌱 I’m currently studying Computer engineering
-- 🥅 2022 Goals: Contribute more to research and graduate
+- 🔭 Job Title: Teaching Assistant @ CMU
+- 🌱 I’m currently studying Cyber Security @ CMU
 - ⚡ Fun fact: I love to program and play tennis
 
 
