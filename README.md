@@ -1,13 +1,13 @@
-### 👋 Hi there, I'm [Fivos Allagiotis](https://foivos-all.github.io/) and I'm currently a student at the [Carnegie Mellon University](https://www.cmu.edu/) and recently was a Research Assistant at the [Lab of Distributed Systems and Telematics](http://telematics.upatras.gr/telematics/)!
+### 👋 Hi there, I'm [Fivos Allagiotis](https://foivos-all.github.io/) and I'm currently a student at the [Carnegie Mellon University](https://www.cmu.edu/) and a Machine Learning Engineer Intern at [PervazivAI](https://pervaziv.com/)!
 
 <!-- [![Website](https://img.shields.io/website?label=IoannisSina.com&style=for-the-badge&url=https://ioannissina.github.io/)](https://ioannissina.github.io/) -->
 ---
 
 #### :pencil: About me:
 
-- 🔭 Job Title: Teaching Assistant @ CMU
-- 🌱 I’m currently studying Cyber Security @ CMU
-- ⚡ Fun fact: I love to program and play tennis
+- 🔭 Job Title: Machine Learning Engineer Intern @ PervazivAI
+- 🌱 I’m currently studying AI and Cyber Security @ CMU
+- ⚡ Fun fact: I love to code and play tennis
 
 
 
