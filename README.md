@@ -13,7 +13,7 @@
 
 #### :telephone: Connect with me:
 
-<a href="https://www.linkedin.com/in/fivos-allayiotis/" target="_blank"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="35"></a>
+<a href="https://www.linkedin.com/in/fivos-allagiotis/" target="_blank"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="35"></a>
 <a href="https://scholar.google.gr/citations?user=33gpo-QAAAAJ&hl=en&authuser=1" target="_blank"><img src="https://cloud.githubusercontent.com/assets/1612326/3472454/f1f2a18e-02cb-11e4-9f89-1d98c471cade.png" width="35"></a>
 <br />
 
