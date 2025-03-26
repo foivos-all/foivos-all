@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm [Fivos Allagiotis](https://foivos-all.github.io/) and I'm currently a student at the [Carnegie Mellon University](https://www.cmu.edu/) and an AI/ML Software Engineer at [PervazivAI](https://pervaziv.com/)!
+### 👋 Hi there, I'm [Fivos Allagiotis](https://foivos-all.github.io/) and I recently graduated from [Carnegie Mellon University](https://www.cmu.edu/)! Currently, I'm an AI/ML Software Engineer at [PervazivAI](https://pervaziv.com/)!
 
 <!-- [![Website](https://img.shields.io/website?label=IoannisSina.com&style=for-the-badge&url=https://ioannissina.github.io/)](https://ioannissina.github.io/) -->
 ---
