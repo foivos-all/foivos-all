@@ -39,11 +39,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foivos-all&langs_count=8&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
-<img align="left" alt="foivos-all GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=foivos-all&show_icons=true&theme=cobalt" />
-
-
-
-
 [website]: https://foivos-all.github.io/ 
-[linkedin]: https://www.linkedin.com/in/ioannis-sina-8b41531a1/ 
-[google scholar]: https://scholar.google.gr/citations?user=33gpo-QAAAAJ&hl=en&authuser=1
+[linkedin]: https://www.linkedin.com/in/fivos-allagiotis/
+[google scholar]: https://scholar.google.com/citations?user=33gpo-QAAAAJ&hl=en&oi=ao
