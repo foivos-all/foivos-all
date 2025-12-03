@@ -35,10 +35,6 @@
 <a href="https://www.php.net/" target="_blank"> <img target="_blank" width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="30" height="30"/> </a>
 <a href="https://www.mathworks.com/products/matlab.html" target="_blank"> <img target="_blank" width="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="MATLAB" width="30" height="30"/> </a>
 
-#### :zap: GitHub Stats:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foivos-all&langs_count=8&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-
 [website]: https://foivos-all.github.io/ 
 [linkedin]: https://www.linkedin.com/in/fivos-allagiotis/
 [google scholar]: https://scholar.google.com/citations?user=33gpo-QAAAAJ&hl=en&oi=ao
