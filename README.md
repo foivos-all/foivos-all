@@ -1,6 +1,6 @@
 # 👋 Hi, I'm [Fivos Allagiotis](https://foivos-all.github.io/)
 
-AI/ML Software Engineer at [PervazivAI](https://pervaziv.com/) · CMU Alum (AI & Cyber Security)
+AI/ML Software Engineer at [Pervaziv AI](https://pervaziv.com/) · CMU Alum (AI & Cyber Security)
 
 ---
 
