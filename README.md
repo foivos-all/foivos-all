@@ -1,40 +1,37 @@
-### 👋 Hi there, I'm [Fivos Allagiotis](https://foivos-all.github.io/) and I recently graduated from [Carnegie Mellon University](https://www.cmu.edu/)! Currently, I'm an AI/ML Software Engineer at [PervazivAI](https://pervaziv.com/)!
+# 👋 Hi, I'm [Fivos Allagiotis](https://foivos-all.github.io/)
 
-<!-- [![Website](https://img.shields.io/website?label=IoannisSina.com&style=for-the-badge&url=https://ioannissina.github.io/)](https://ioannissina.github.io/) -->
+AI/ML Software Engineer at [PervazivAI](https://pervaziv.com/) · CMU Alum (AI & Cyber Security)
+
 ---
 
-#### :pencil: About me:
+### 🧑‍💻 About Me
 
-- 🔭 Job Title: AI/ML Software Engineer @ PervazivAI
-- 🌱 Studied AI and Cyber Security @ CMU
+- 🔭 Building AI agents that find vulnerabilities before attackers do @ [PervazivAI](https://pervaziv.com/)
+- 🎓 Studied AI and Cyber Security at Carnegie Mellon University
+- 💬 Into distributed systems, LLMs, and real-time data processing
 - ⚡ Fun fact: I love to code and play tennis
 
+---
 
+### 📬 Connect with Me
 
-#### :telephone: Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fivos%20Allagiotis-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/fivos-allagiotis/)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Research-lightgrey?style=flat&logo=google-scholar)](https://scholar.google.gr/citations?user=33gpo-QAAAAJ&hl=en)
+[![Website](https://img.shields.io/badge/Website-foivos--all.github.io-green?style=flat&logo=github)](https://foivos-all.github.io/)
 
-<a href="https://www.linkedin.com/in/fivos-allagiotis/" target="_blank"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="35"></a>
-<a href="https://scholar.google.gr/citations?user=33gpo-QAAAAJ&hl=en&authuser=1" target="_blank"><img src="https://cloud.githubusercontent.com/assets/1612326/3472454/f1f2a18e-02cb-11e4-9f89-1d98c471cade.png" width="35"></a>
-<br />
+---
 
+### 🛠️ Languages & Tools
 
-
-#### :wrench: Languages and Tools:
-
-<a style="text-decoration: none;" href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="30"/> </a>
-<a style="text-decoration: none;" href="https://www.drupal.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/drupal/drupal-original.svg" alt="Drupal" width="30" height="30"/> </a> 
-<a style="text-decoration: none;" href="https://wordpress.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" alt="Wordpress" width="30" height="30"/> </a> 
-<a style="text-decoration: none;" href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30"/> </a> 
-<a style="text-decoration: none;" href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="30" height="30"/> </a> 
-<a style="text-decoration: none;" href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="30" height="30"/> </a>
-<a style="text-decoration: none;" href="https://www.java.com/en/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java" width="30" height="30"/> </a> 
-<a style="text-decoration: none;" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="30" height="30"/> </a> 
-<a style="text-decoration: none;" href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> </a>
-<a href="https://visualstudio.microsoft.com/" target="_blank"> <img target="_blank" alt="Visual Studio Code" width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" /> </a>
-<a href="https://www.mysql.com/" target="_blank"> <img target="_blank" width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="30" height="30"/> </a>
-<a href="https://www.php.net/" target="_blank"> <img target="_blank" width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="30" height="30"/> </a>
-<a href="https://www.mathworks.com/products/matlab.html" target="_blank"> <img target="_blank" width="30" height="30" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="MATLAB" width="30" height="30"/> </a>
-
-[website]: https://foivos-all.github.io/ 
-[linkedin]: https://www.linkedin.com/in/fivos-allagiotis/
-[google scholar]: https://scholar.google.com/citations?user=33gpo-QAAAAJ&hl=en&oi=ao
+<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30"/></a>
+<a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="30"/></a>
+<a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="30"/></a>
+<a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="30"/></a>
+<a href="https://fastapi.tiangolo.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="30"/></a>
+<a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="30"/></a>
+<a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="30"/></a>
+<a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="30"/></a>
+<a href="https://cloud.google.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="30"/></a>
+<a href="https://aws.amazon.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="30"/></a>
+<a href="https://azure.microsoft.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="30"/></a>
+<a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="30"/></a>
