@@ -1,12 +1,12 @@
 # 👋 Hi, I'm [Fivos Allagiotis](https://foivos-all.github.io/)
 
-AI/ML Software Engineer at [Pervaziv AI](https://pervaziv.com/) · CMU Alum (AI & Cyber Security)
+AI/ML Software Engineer at [Aleph](https://www.getaleph.com/) · CMU Alum (AI & Cyber Security)
 
 ---
 
 ### 🧑‍💻 About Me
 
-- 🔭 Building AI agents that find vulnerabilities before attackers do @ [PervazivAI](https://pervaziv.com/)
+- 🔭 Building AI agents for FP&A
 - 🎓 Studied AI and Cyber Security at Carnegie Mellon University
 - 💬 Into distributed systems, LLMs, and real-time data processing
 - ⚡ Fun fact: I love to code and play tennis
